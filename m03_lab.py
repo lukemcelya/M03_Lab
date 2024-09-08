@@ -1,6 +1,8 @@
 """
 Luke McElya
 M03 Lab
+This program initializes an object from a superclass and a subclass, that takes input from the user on information about a car, including 
+the vehicle type, year, make, model, how many doors it has and the type of roof, and then outputs it at the command line
 """
 
 #initialize Vehicle class
